@@ -1,0 +1,15 @@
+// Declare variables and then initialize to zero.
+// Display title as the C# console calculator app.
+// Ask the user to type the first number.
+ // Ask the user to type the second number.
+  // Ask the user to choose an option
+     // Use a switch statement to do the math.
+      // Wait for the user to respond before closing.
+
+      // Объявляем переменные и затем инициализируем их нулем.
+// Отображение заголовка как консольного калькулятора C#.
+// Попросите пользователя ввести первое число.
+ // Попросите пользователя ввести второе число.
+  // Просим пользователя выбрать вариант
+     // Используйте оператор переключения для выполнения математических вычислений.
+      // Подождите, пока пользователь ответит, прежде чем закрыть.
